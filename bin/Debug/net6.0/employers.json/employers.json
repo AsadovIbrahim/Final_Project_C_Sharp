@@ -1,0 +1,19 @@
+[
+  {
+    "Vacancies": [
+      "Software Engineer",
+      "Data Analyst",
+      "Front-End Developer",
+      "Back-End Developer"
+    ],
+    "Id": "2d2b0a14-2964-4b54-bd12-697f8e2d25b0",
+    "Username": "hesen",
+    "Email": null,
+    "Password": "12345678",
+    "Name": "Hesen",
+    "Surname": "Abdullazade",
+    "City": "Baku",
+    "Phone": "0704040301",
+    "Age": 15
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xwyAslawWc9+jys1WCH50rontN9WBlttQbxIpNflxwzCnDUQKwlhR+jyeA+JtN2G5KCNzzDixqsVDEzv1sfRPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\source\\repos\\Final_Project_C_Sharp\\Final_Project_C_Sharp\\Final_Project_C_Sharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
